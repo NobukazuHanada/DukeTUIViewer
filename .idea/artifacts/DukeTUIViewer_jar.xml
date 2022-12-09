@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DukeTUIViewer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DukeTUIViewer_jar</output-path>
+    <root id="archive" name="DukeTUIViewer.jar">
+      <element id="module-output" name="DukeTUIViewer" />
+    </root>
+  </artifact>
+</component>

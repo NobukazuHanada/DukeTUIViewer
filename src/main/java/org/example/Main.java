@@ -64,7 +64,7 @@ public class Main {
             if (grayScale < threshold) {
                 return " " + (isLast ? sp : "");
             } else {
-                return "■" + (isLast ? sp : "");
+                return "#" + (isLast ? sp : "");
             }
         }).collect(Collectors.joining());
 
